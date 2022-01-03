@@ -1,0 +1,32 @@
+.Appointments {
+  /* background-color: yellow; */
+  margin-top: 30px;
+  min-height: 30vh;
+}
+
+.Appointments h4 {
+  font-weight: 600;
+}
+
+.Appointments p {
+  font-weight: 500;
+}
+
+.allCards {
+  display: flex;
+  overflow: auto;
+  min-height: 30vh;
+}
+
+.cardText {
+  margin-bottom: 10px;
+}
+
+.card {
+  border: none;
+  border-radius: "10px";
+}
+
+.bodyCard p {
+  margin-top: 10px;
+}
